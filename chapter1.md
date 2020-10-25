@@ -7,4 +7,4 @@
 * Preface
 
 
-The writer is trying to teach us about a very complex technoligical scenario.
+The writer is trying to tell us about a very complex technological scenario.
